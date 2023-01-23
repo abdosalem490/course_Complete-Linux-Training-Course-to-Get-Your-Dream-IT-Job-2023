@@ -1,0 +1,7 @@
+oracle virtualbox link download:
+    https://www.virtualbox.org/wiki/Downloads
+
+ubuntu link download:
+    https://ubuntu.com/download/desktop
+
+
