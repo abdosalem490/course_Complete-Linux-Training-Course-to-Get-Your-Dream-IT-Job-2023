@@ -1,0 +1,2 @@
+installation of openLDAP:
+	https://kifarunix.com/install-and-setup-openldap-on-centos-8/
